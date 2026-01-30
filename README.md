@@ -6,7 +6,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochodzio&label=Profile%20views&color=0e75b6&style=flat" alt="ochodzio" /> </p>
 
-- 🌱 I’m currently learning **Mulesoft**
+- 🌱 Python Integration Engineer working on large-scale systems in high-tech environments. I focus on building reliable backend services, integration workflows, and data orchestration logic using Python. My experience includes API-led integrations, SAP BTP services, LLM-assisted validation flows, and end-to-end system behaviour design.
+Joined a semiconductor project very early in the pre-kickoff phase as one of the first Python engineers. Supported architecture discussions, defined integration boundaries between Python services and MuleSoft, and prepared functional design materials used across the team.
+Acted as a shadow tech lead for the Python layer when dedicated expertise was missing — reviewing most pull requests, guiding implementation details, and keeping the codebase consistent during the ramp-up period. I also created onboarding documentation and tutorial recordings for new developers.
+Comfortable working on-site in Eindhoven with architects and engineering leads. I value clarity, ownership, and steady delivery. My goal is to build systems that are maintainable, practical, and easy for others to work with — whether it’s Python logic, routing flows, CI/CD, or integration orchestration.
+Currently expanding into AI-driven workflows (LLM-based validation, enrichment, routing) for enterprise integration use cases.
 
 - 📫 How to reach me **ochodekbartlomiej@gmail.com**
 
