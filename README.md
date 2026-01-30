@@ -2,15 +2,11 @@
 <img alt="Coding";  src="https://media4.giphy.com/media/7tTkpEzUC9C8vmUQJd/giphy.gif?cid=790b7611095d158268db4b0d97ec1b4130fb055bda32a5c2&rid=giphy.gif&ct=g">
 </p>
 <h1 align="center">Hi 👋, I'm ochodz</h1>
-<h3 align="center">I'm a Java and Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/c6590c70a5966a3baf311f081cdda5ff.gif">
+<h3 align="center">I'm a Python Integration Engineer </h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochodzio&label=Profile%20views&color=0e75b6&style=flat" alt="ochodzio" /> </p>
 
-- 🌱 Python Integration Engineer working on large-scale systems in high-tech environments. I focus on building reliable backend services, integration workflows, and data orchestration logic using Python. My experience includes API-led integrations, SAP BTP services, LLM-assisted validation flows, and end-to-end system behaviour design.
-Joined a semiconductor project very early in the pre-kickoff phase as one of the first Python engineers. Supported architecture discussions, defined integration boundaries between Python services and MuleSoft, and prepared functional design materials used across the team.
-Acted as a shadow tech lead for the Python layer when dedicated expertise was missing — reviewing most pull requests, guiding implementation details, and keeping the codebase consistent during the ramp-up period. I also created onboarding documentation and tutorial recordings for new developers.
-Comfortable working on-site in Eindhoven with architects and engineering leads. I value clarity, ownership, and steady delivery. My goal is to build systems that are maintainable, practical, and easy for others to work with — whether it’s Python logic, routing flows, CI/CD, or integration orchestration.
-Currently expanding into AI-driven workflows (LLM-based validation, enrichment, routing) for enterprise integration use cases.
+- 🌱 Currently learning AI integrations
 
 - 📫 How to reach me **ochodekbartlomiej@gmail.com**
 
